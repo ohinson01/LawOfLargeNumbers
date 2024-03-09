@@ -1,4 +1,5 @@
-
+# Law Of Large Numbers
+# Date: 3/8/2024
 
 # Specify sample size
 N <- 100
