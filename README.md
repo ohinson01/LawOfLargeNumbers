@@ -1,5 +1,5 @@
 # About
-This is a statistical exercise in R that assesses whether the Law of Large Numbers is correct. 
+This is a statistical exercise in R that assesses whether the Law of Large Numbers is correct using a normally distributed set of numbers. 
 
 <img width="534" alt="image" src="https://github.com/ohinson01/LawOfLargeNumbers/assets/69820358/d1c44ba8-ffff-4955-8929-e74cc6427ec7">
 
