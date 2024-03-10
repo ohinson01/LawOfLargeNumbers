@@ -12,7 +12,7 @@ Coin tosses
 This exercise is developed following the online course: 
 
 - [Udemy Course: R Programming A-Z: R For Data Science With Real Exercises!](https://www.udemy.com/course/r-programming/?kw=R+programming&src=sac&couponCode=LETSLEARNNOWPP)
-
+- Information/Data Set: www.superdatascience.com
 # Author and Date Created
 - Olivia Hinson
 - 3/8/2024
